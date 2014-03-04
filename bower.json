@@ -1,0 +1,26 @@
+{
+  "name": "shadow_uploader",
+  "version": "0.1.0",
+  "authors": [
+    "zmmbreeze <zmmbreeze0825@gmail.com>"
+  ],
+  "description": "Another file uploader plugin.",
+  "main": "src/shadow_uploader.js",
+  "keywords": [
+    "jquery",
+    "uploader",
+    "shadow",
+    "dom",
+    "mutiple",
+    "file"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src/components/",
+    "test",
+    "tests"
+  ]
+}
